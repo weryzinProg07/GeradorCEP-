@@ -5,7 +5,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # Insira seu token aqui
-TELEGRAM_TOKEN = "COLOQUE_SEU_TOKEN_AQUI"
+TELEGRAM_TOKEN = "8191722108:AAEjV8yKpfQYbpGynYKaYKJmvaRRcOquTIw"
 
 # Configurar o logging
 logging.basicConfig(
